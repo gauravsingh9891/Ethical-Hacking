@@ -1,0 +1,18 @@
+  What is hacking ?
+====================================================================================================================
+
+* Hacking is a process used by a attacker to take control on a target without his will.
+
+* Mostly hacking is used for criminals activities.
+
+* There is no ethic in hacking.
+
+
+ What is Ethical hacking ?
+====================================================================================================================
+
+* An Ethical hackers is a computer and networking experts who systematically attempts to penetrate a computer system
+  or network on the behalf of its owners for the purpose of finding security vulnerabilty that a malicious hacker -
+  could potentially exploit.
+
+* Ethical hacking is used to protect a target or system.
