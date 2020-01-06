@@ -1,0 +1,73 @@
+ Who is hacker ?
+============================================================================================================================================
+
+* A Hacker is person who finds and exploits the weakness of a comuter system to gain access.
+
+* A hacker is think outside the box.
+
+* A hacker is a person who discover the unknown features and properties in a computer.
+
+* A hacker is a person who is highly creative and dedicated to knowledge.
+
+* All hackers are not a criminals thats depends on their work.
+
+
+There are a three types of hackers -
+
+1) White Hat Hacker (Ethical Hackers)
+
+2) Black Hat Hacker (Bad Hackers)
+
+3) Grey Hat Hacker (works as both white hat and black hat hacker)
+
+
+who is White Hat Hacker ?
+=============================================================================================================================================
+
+* A hacker who gains the access to the system with permission to fix the identified weakness. They may also perform penetration testing and 
+  vulnerablity assessments.
+
+* White hat hacker is also known as ethical hackers.
+
+* They works for a cyber security.
+
+
+who is Black Hat Hacker ?
+============================================================================================================================================= 
+
+* A hacker who gains unauthorized access to computer system for personal gain.
+
+* The intention is usually to steal corporate data, violate privacy rights, transfer funds form bank accounts.
+
+* Black hat hackers do illegal works.
+
+
+who is Grey Hat Hacker ?
+=============================================================================================================================================
+
+* A hacker who performs both actions according  to situation of a white hat hacker and a black hat hacker.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
