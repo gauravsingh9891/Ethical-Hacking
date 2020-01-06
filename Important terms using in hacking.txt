@@ -1,0 +1,100 @@
+				            Terms using in Hacking 
+-------------------------------------------------------------------------------------------------------------------
+
+
+ 
+ Script kiddies
+===================================================================================================================
+
+* A non-skilled person who gains access to computer system using already made tools.
+
+* Script kiddies has little bit knowledge about hacking. Mostly they use tools which are made by others.
+
+
+
+ Hacktivist
+====================================================================================================================
+
+* A hacker who use hacking to send social, religious and political etc. message.This is usually done by hijacking
+  websites and leaving the message on the hijacked websites.
+
+
+ Phreaker
+====================================================================================================================
+
+* A hacker who identifies and exploits weakness in telephone lines instead of computer system.
+
+
+
+ Exploit
+====================================================================================================================
+
+* It is clearly defined way to breach or break the security of a system.
+
+
+
+ Botnet
+====================================================================================================================
+
+* A Botnet is a group of computers controlled without owner's knowledge and used to send spam or make denial or 
+  service attacks. 
+
+
+
+ Rootkit
+====================================================================================================================
+
+* A rootkit is a set of software program used to a gain administrator level access to a systems.
+
+
+
+ Spam
+====================================================================================================================
+
+* Unwanted and unsolicited email and other electronic that attempts to convince the receiver to either purchase a 
+  product or service or use that prospect to defraud the reciplent.
+
+* Spam contain malicious message or link that can be harmf or hack the system.
+
+
+
+
+ Hack value
+=====================================================================================================================
+
+* This term describes a target that may attract an above average level of attention to an attacker.
+
+* Presumably because this target is attractive,it has more value to an attacker because of what it may contain.
+
+
+
+
+ Zero Day
+=====================================================================================================================
+
+* This describe a threat or vulnerablity that is unknown to developers and has not been addressed.
+
+* It is serious problem in many cases.
+
+
+
+ Vulnerablity
+=====================================================================================================================
+
+* vulnerablity means "weakness of system".
+
+
+
+ Phishing
+=====================================================================================================================
+
+* Phishing is the attempts to obtain sensitive information such as username,password and credit card details(and, in-
+  directly money) often for malicious reasons, by sending an email that looks as if it is from a legitimate organisa-
+  tion, usually it contains a fake website or link.
+
+
+ Pharming
+======================================================================================================================
+
+* Pharming is yet another way hackers attempts to manipulate users on the interner.Pharming redirects users to false 
+  website without them even knowing it. 
