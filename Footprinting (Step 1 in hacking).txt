@@ -1,0 +1,103 @@
+					                              Footprinting
+==================================================================================================================================================
+
+            Topics in Footprinting
+----------------------------------------------
+
+Qns 1. What is footprinting ?
+
+Qns 2. Type of footprinting ?
+
+Qns 3. Various steps used in footprinting ?
+
+-----------------------------------------------
+
+   Footprinting
+==================
+
+* Footprinting is the first and most convenient way that hackers use to gather information about computer system or a network and about the devices
+  that are connected/attached to the network.
+
+* In footprinting a penetration tester used to evaluate the security of any IT infrastructure.
+
+* Footprinting is a first and the important step because after this a penetration tester know how the hacker sees this networks.
+
+
+ Types of Footprinting
+=========================
+
+There are two types of footprinting
+
+(i) Active footprinting.
+
+(ii) Passive footprinting.
+
+
+   Passive Footprinting
+===========================
+
+* In passive footprinting attackers collect information without knowing target.
+
+* In Others words we can say that in passive footprinting attackers don't know about the target and collect information from different activites like 
+   - Google Search, IP Address, DNS Lookup etc.
+
+   Active Footprinting
+===========================
+
+* In Active footprinting attacker knows about the targets and collect information by Mirroring Websites, E-Mail Tracking, Pinging etc.
+
+
+# Various steps of information Gathering
+===========================================
+
+(i).   Website footprinting.
+(ii).  E-mail footprinting.
+(iii). Footprinting throught search engine.
+(iv).  DNS footprinting.
+(v).   Network footprinting.
+(vi).  People search online service (Zaba search, Zoominfo, People search, Peekyou, Intelius, People smart, While Pages, Yellow pages) etc.
+(vii). Footprinting through social networking sites (Facebook,linkedin, Google, Twitter etc.).
+
+
+
+(i). Website footprinting
+------------------------------
+
+1). In website footprinting hacker gather information by (Mirroring the websites).
+
+* They use tools like -
+
+	-> Website Ripper copier (software)
+	-> Teleport Pro
+	-> Imise 
+	-> Httrack (software)
+	-> GNU Wget
+
+
+2). Extract website information through online websites like 
+	
+	-> archieve.org
+	-> waybackmachine
+	-> website watcher
+
+
+3). whois lookup (smart whois) by this tools hackers collect the information like - website Domain, website owner, website registration date, and the server details etc.
+
+
+
+
+(ii). E-mail footprinting
+----------------------------------
+
+* Information gather through email is called e-mail footprinting
+
+* E-mail Tacking tools like -
+
+	-> Read Notify
+	-> Who readme
+	-> Get Notify
+	-> Zendio
+	-> Trace Email
+	-> MSGTAG
+
+* He collect information like - Target of IP, Which time she/he open a email.
