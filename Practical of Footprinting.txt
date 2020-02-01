@@ -1,0 +1,122 @@
+						Practical of Footprinting
+=======================================================================================================================
+
+1) Website Footprinting
+------------------------------
+
+# By using Online Websites
+================================================================================================================
+( Method 1 )
+
+* Go to google and search this website which is- "www.informer.com" to wensite footprinting.
+
+* When website is open then you can use to find any information about any website.
+   
+   Ex- if we find information about www.google.com then it will give information about google like
+	
+	. Created -
+	. Expries -
+	. Owner -
+	. Hosting company -
+	. Registrar -
+	. IPs -
+	. Subdomains -
+	. DNS - 
+	. Email -
+
+* This type of information shown
+
+
+
+( Method 2 )
+
+* Go to Google and search this website which is "www.whois.com"
+
+* When this website will open then you can get information about any website by entering its domain.
+
+* It's shows this type of information -
+
+	. Domain :
+	. Registrar :
+	. Registered On : 
+	. Expires on :
+	. Updated on :
+	. Status :
+	. Name servers :
+
+and show on
+==================================================================================================================
+
+
+# By Extract website infromation
+==================================================================================================================
+
+i) "wayback machine" OR "archive.org" search on google.
+
+	* This website obtain information webpages loaded on their sites.
+	* Ex- if we search website like - www.facebook.com on wayback machine.It show changes and updation of website
+	  through developers.
+
+ii) "archive.is" search on google
+
+	* archive.org and archive.is both are different.In other words we can say that both are competers.
+	* Some work as archive.org but little bit different from it.
+	* It shows complete history and changements.
+	* We can easly see the changes which are upload to archiver through developer.
+	* We can download change of snapshot in zip format.
+
+iii) "itools.com"
+
+	* It is best for extracting information to the website.
+	* It contains lot of information like traffic of websites,keywords which are most search an paticulat websites,
+	  competitiers and ranks of websites.
+	* In itools -
+		-> Analstics of website
+		-> Internet of website
+		-> Seo o website
+		-> Traffic
+===========================================================================================================================
+
+
+# How to Copy a website in offline mode (Mirroring of website)
+==========================================================================================================================
+
+i) HTTrack website copier
+
+	* It is used to copy website and use in offline mode.
+
+	* We have to download first.
+
+	* We can find error easly in websites.
+
+	* We copy all contents of a website like jpg file, zipfile, video, audio and so on.
+
+ii) WebRipper
+
+	* Work as the same as HTTrack website copier
+	* We need t download first
+===========================================================================================================================
+
+
+
+2) Email Footprinting
+-----------------------------------
+
+
+(Method 1)
+
+ Steps to use "whoreadme.com"
+__________________________________
+
+* First open "whoreadme.com" on google.
+
+* Create your id.
+
+* Then send email to target by entering th email address of victim.
+
+* When send email befor it on option like
+	Track link (.)  Enable read receipt (.)
+
+* when email send the target open emails any time, then you have to login your whoreadme website, then track the email of all
+  details clearly.
+ 
