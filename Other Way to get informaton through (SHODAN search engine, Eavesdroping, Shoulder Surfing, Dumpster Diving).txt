@@ -1,0 +1,51 @@
+			Other Way to get information Like Footprinting
+=================================================================================================
+
+
+1). SHODAN Search Engine (Operating System Information) 
+----------------------------------------------------------
+
+* SHODAN search engine is a best gift for a hacker by which they collect the information of online devices.
+
+* It is also give information about OS.
+
+
+
+2). Eavesdropping
+--------------------------
+
+* Eavesdropping is the act of secretly listening to the conversection of people over a phone or video conference
+  without their consent it also includes reading secret message from communication media such as instant messaging
+  or fax transmission.
+
+* It is basically the act of intercepting communication with the consent of the communicating parties.
+
+* The attacker gains confidential information by tapping the phone conversation, and intercepting audio, video or 
+  written communication.
+
+
+
+3). Shoulder Surfing
+--------------------------
+
+* With this technique, an attacker stands behind the victim and secretly observes the victim's activities on the 
+  computer such key strokes while entering user names, passwords etc. His technique is commonly used to gain 
+  PASSWORD, PINS, security codes, account numbers, credit card information, and similar data.
+
+* It can be performed in a crowded place as it is relation easy to stand behind the victim without his or her
+  Knowledge
+
+
+
+4). Dumpster Diving
+-------------------------
+
+* This is technique is also known as trashing.
+
+* Where the attacker looks for information in the target company's dumpster.
+
+* The attacker may gain vital information such as phone bills, contact information, financial information, operational
+  related information, printouts of source codes, printouts of sensitive information etc. From the target company's 
+  trashbins, printer trashbins, and sticky notes, of user desks, etc.
+
+* The obtained information can be helpful for the attacker to commit attackers.
