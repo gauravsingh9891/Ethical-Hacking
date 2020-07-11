@@ -1,7 +1,7 @@
  Who is hacker ?
 ============================================================================================================================================
 
-* A Hacker is person who finds and exploits the weakness of a comuter system to gain access.
+* A Hacker is person who finds and exploits the weakness of a computer system to gain access.
 
 * A hacker is think outside the box.
 
